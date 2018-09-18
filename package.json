@@ -1,6 +1,6 @@
 {
   "name": "mapped-replace",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Performs a replacement on a string using a map",
   "main": "lib/index.js",
   "repository": "https://github.com/luvies/mapped-replace",
