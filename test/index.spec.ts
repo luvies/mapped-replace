@@ -2,7 +2,7 @@ import { expect } from 'chai';
 import 'mocha';
 import mappedReplace from '../src';
 
-describe('mappedRepace', function() {
+describe('mappedReplace', function() {
   it('should leave the string untouched when given an empty object', function() {
     expect(mappedReplace('test string', {})).to.be.equal('test string');
     expect(mappedReplace('another', {})).to.be.equal('another');
